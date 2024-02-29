@@ -1,0 +1,62 @@
+* {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+body{ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+.homepage{
+    padding-top: 8%;
+    padding-left: 14%;
+    font-size: larger;
+}
+.intro{
+    margin: -1%;
+    padding: 2%;
+    background: rgba(0, 0, 0, 0.11);
+    padding-left: 45%;
+    font-size: 174%;
+    letter-spacing: 2px;
+    font-weight: 900;
+}
+.barslide{
+    margin: -0.5%;
+    padding-left: 0%;
+}
+.baroption {
+    width: 64%;
+    padding-left: 16%;
+    padding-top: 1%;
+    line-height: 317%;
+    font-size: 113%;
+}
+ul {
+    list-style: none;
+}
+ul li a {
+    margin: 0%;
+    display: block;
+    padding: 20px 25px;
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.689);
+}
+ul li ul.dropdown li {
+    display: block;
+}
+ul li ul.dropdown {
+    padding-top: 7%;
+    padding-left: 0%;
+    width: 35%;
+    background: #ffffff8c;
+    position: absolute;
+    display: none;
+    font-size: larger;
+}
+ul li a:hover {
+    margin: 0%;
+    background: #91919156;
+}
+ul li:hover ul.dropdown {
+    display: block;
+}

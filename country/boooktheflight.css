@@ -1,0 +1,33 @@
+* {
+    color: rgb(0, 0, 0);
+}
+body{ 
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+.homepage{
+    margin-top: 8%;;
+    padding-left: 14%;
+    font-size: larger;
+}
+.intro{
+    margin: -1%;
+    padding: 2%;
+    background: rgba(0, 0, 0, 0.11);
+    padding-left: 42%;
+    font-size: 174%;
+    letter-spacing: 2px;
+    font-weight: 900;
+}
+.imae{
+    padding-left: 17%;
+    padding-top: 9%;
+}
+.col-sm-4{
+    line-height: 44px;
+}
+.container {
+    width: 36%;
+    padding-left: 47%;
+}
